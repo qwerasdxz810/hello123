@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="980" viewBox="0 0 1240 980"><rect width="1240" height="980" fill="#fff"/>
+<rect x="20" y="20" width="560" height="940" rx="10" fill="#EEF7F5" stroke="#23826F" stroke-width="1.8"/>
+<rect x="20" y="20" width="560" height="52" rx="10" fill="#23826F" stroke="none" stroke-width="1.4"/>
+<rect x="20" y="52" width="560" height="20" rx="0" fill="#23826F" stroke="none" stroke-width="1.4"/>
+<text x="300.0" y="56" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="23.0" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>接收站 j（j = 1, …, 5）站内处理</tspan></text>
+<rect x="50" y="96" width="240" height="64" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="170" y="124" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>参考天线</tspan></text>
+<text x="170" y="148" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>对准两个信号源</tspan></text>
+<polyline points="170.0,161.0 170.0,184.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="170.0,194.0 165.5,184.0 174.5,184.0" fill="#23826F"/>
+<rect x="310" y="96" width="240" height="64" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="430" y="124" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>监视天线</tspan></text>
+<text x="430" y="148" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>对准监视空域</tspan></text>
+<polyline points="430.0,161.0 430.0,184.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="430.0,194.0 425.5,184.0 434.5,184.0" fill="#23826F"/>
+<rect x="50" y="196" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="226" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>同步采样与时间标记</tspan></text>
+<text x="300.0" y="252" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>两通道共用本振/时钟（GNSS 驯服），以 CPI 中心时刻 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">t</tspan><tspan font-size="9.9" dy="4.1">c</tspan><tspan dy="-4.1"> 打标</tspan></text>
+<polyline points="300.0,271.0 300.0,275.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,285.0 295.5,275.0 304.5,275.0" fill="#23826F"/>
+<rect x="50" y="286" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="316" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>① 数字信道化与多源分离</tspan></text>
+<text x="300.0" y="342" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>分别得到信号源 T1、T2 的参考/监视基带信号</tspan></text>
+<polyline points="300.0,361.0 300.0,365.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,375.0 295.5,365.0 304.5,365.0" fill="#23826F"/>
+<rect x="50" y="376" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="406" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>② 辐射源参数估计</tspan></text>
+<text x="300.0" y="432" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>载频偏差、符号定时、帧结构（见《信号源参数精确估计技术》）</tspan></text>
+<polyline points="300.0,451.0 300.0,455.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,465.0 295.5,455.0 304.5,455.0" fill="#23826F"/>
+<rect x="50" y="466" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="496" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>③ 参考信号提纯</tspan></text>
+<text x="300.0" y="522" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>解调—再调制重构，并保留本站直达波的复增益与相位</tspan></text>
+<polyline points="300.0,541.0 300.0,545.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,555.0 295.5,545.0 304.5,545.0" fill="#23826F"/>
+<rect x="50" y="556" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="586" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>④ 直达波/多径杂波对消</tspan></text>
+<text x="300.0" y="612" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>ECA：将监视信号投影到 {</tspan><tspan font-style="italic" font-family="Times New Roman, serif">d̂</tspan><tspan>(</tspan><tspan font-style="italic" font-family="Times New Roman, serif">n</tspan><tspan>−</tspan><tspan font-style="italic" font-family="Times New Roman, serif">k</tspan><tspan>)} 的正交补空间</tspan></text>
+<polyline points="300.0,631.0 300.0,635.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,645.0 295.5,635.0 304.5,635.0" fill="#23826F"/>
+<rect x="50" y="646" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="676" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>⑤ 距离—多普勒相参积累</tspan></text>
+<text x="300.0" y="702" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>批处理互模糊函数 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">χ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">(</tspan><tspan font-style="italic" font-family="Times New Roman, serif">τ</tspan><tspan>, </tspan><tspan font-style="italic" font-family="Times New Roman, serif">f</tspan><tspan>)，相位基准统一到 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">t</tspan><tspan font-size="9.9" dy="4.1">c</tspan></text>
+<polyline points="300.0,721.0 300.0,725.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,735.0 295.5,725.0 304.5,725.0" fill="#23826F"/>
+<rect x="50" y="736" width="500" height="74" rx="6" fill="#fff" stroke="#23826F" stroke-width="1.4"/>
+<text x="300.0" y="766" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>⑥ 通道相位标定与噪声归一化</tspan></text>
+<text x="300.0" y="792" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>相位 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">κ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">（注入校准 + 直达波泄漏监测）、噪声 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">σ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">²</tspan></text>
+<text x="540" y="372" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.0" font-weight="normal" fill="#23826F" text-anchor="end"><tspan>×2（两源并行）</tspan></text>
+<polyline points="300.0,815.0 300.0,819.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="300.0,829.0 295.5,819.0 304.5,819.0" fill="#23826F"/>
+<rect x="50" y="830" width="500" height="66" rx="8" fill="#46505C" stroke="none" stroke-width="1.4"/>
+<text x="300.0" y="858" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.0" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>每站输出 2 条链路（T1R j、T2R j）</tspan></text>
+<text x="300.0" y="882" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#E5E9EE" text-anchor="middle"><tspan>复数距离—多普勒图 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">χ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">(</tspan><tspan font-style="italic" font-family="Times New Roman, serif">τ</tspan><tspan>, </tspan><tspan font-style="italic" font-family="Times New Roman, serif">f</tspan><tspan>)、</tspan><tspan font-style="italic" font-family="Times New Roman, serif">σ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">²、</tspan><tspan font-style="italic" font-family="Times New Roman, serif">κ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">、时间戳、站址</tspan></text>
+<rect x="660" y="20" width="560" height="940" rx="10" fill="#EEF3FB" stroke="#2B5FAE" stroke-width="1.8"/>
+<rect x="660" y="20" width="560" height="52" rx="10" fill="#2B5FAE" stroke="none" stroke-width="1.4"/>
+<rect x="660" y="52" width="560" height="20" rx="0" fill="#2B5FAE" stroke="none" stroke-width="1.4"/>
+<text x="940.0" y="56" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="23.0" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>融合中心：10 链路相参融合检测</tspan></text>
+<rect x="690" y="116" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="150" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑦ 目标状态空间网格</tspan></text>
+<text x="940.0" y="178" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">θ</tspan><tspan> = (</tspan><tspan font-style="italic" font-family="Times New Roman, serif">p</tspan><tspan>, </tspan><tspan font-style="italic" font-family="Times New Roman, serif">v</tspan><tspan>)：计算 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">R</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">(θ)、</tspan><tspan font-style="italic" font-family="Times New Roman, serif">f</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">(θ)、波数矢量 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">k</tspan><tspan font-size="9.9" dy="4.1">l</tspan></text>
+<polyline points="940.0,201.0 940.0,215.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="940.0,225.0 935.5,215.0 944.5,215.0" fill="#2B5FAE"/>
+<rect x="690" y="226" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="260" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑧ 非相参粗检测（包络级）</tspan></text>
+<text x="940.0" y="288" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="9.9" dy="4.1">N</tspan><tspan dy="-4.1">(θ) = Σ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1"> |</tspan><tspan font-style="italic" font-family="Times New Roman, serif">z̃</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">|²，粗网格、低门限 → 候选单元</tspan></text>
+<polyline points="940.0,311.0 940.0,325.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="940.0,335.0 935.5,325.0 944.5,325.0" fill="#2B5FAE"/>
+<rect x="690" y="336" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="370" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑨ 相位补偿与加权</tspan></text>
+<text x="940.0" y="398" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">z̃</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1"> exp[ j(2π</tspan><tspan font-style="italic" font-family="Times New Roman, serif">R</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">/</tspan><tspan font-style="italic" font-family="Times New Roman, serif">λ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1"> − </tspan><tspan font-style="italic" font-family="Times New Roman, serif">κ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">) ]，MRC 权 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1"> ∝ (SNR</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">)</tspan><tspan font-size="9.9" dy="-5.5">1/2</tspan></text>
+<polyline points="940.0,421.0 940.0,435.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="940.0,445.0 935.5,435.0 944.5,435.0" fill="#2B5FAE"/>
+<rect x="690" y="446" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="480" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑩ 相参精搜索（相位级）</tspan></text>
+<text x="940.0" y="508" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="9.9" dy="4.1">C</tspan><tspan dy="-4.1"> = max</tspan><tspan font-size="9.9" dy="4.1">δp</tspan><tspan dy="-4.1"> |Σ </tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan font-style="italic" font-family="Times New Roman, serif" dy="-4.1">z̃</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1"> exp( j2π</tspan><tspan font-style="italic" font-family="Times New Roman, serif">k</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">·δ</tspan><tspan font-style="italic" font-family="Times New Roman, serif">p</tspan><tspan>) |² / Σ</tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">²</tspan></text>
+<polyline points="940.0,531.0 940.0,545.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="940.0,555.0 935.5,545.0 944.5,545.0" fill="#2B5FAE"/>
+<rect x="690" y="556" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="590" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑪ 相参性自适应判决</tspan></text>
+<text x="940.0" y="618" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>相参/非相参双支路（Pfa 分配）或分组相参 → CFAR</tspan></text>
+<polyline points="940.0,641.0 940.0,655.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="940.0,665.0 935.5,655.0 944.5,655.0" fill="#2B5FAE"/>
+<rect x="690" y="666" width="500" height="84" rx="6" fill="#fff" stroke="#2B5FAE" stroke-width="1.4"/>
+<text x="940.0" y="700" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="19.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>⑫ 检测输出与精定位</tspan></text>
+<text x="940.0" y="728" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>目标状态估计（波长级相参定位）→ 航迹</tspan></text>
+<polyline points="550.0,863.0 620.0,863.0 620.0,158.0 677.0,158.0" fill="none" stroke="#46505C" stroke-width="2.4"/>
+<polygon points="689.0,158.0 677.0,163.4 677.0,152.6" fill="#46505C"/>
+<text x="940.0" y="100" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="16.0" font-weight="bold" fill="#46505C" text-anchor="middle"><tspan>输入：5 站 × 2 源 = 10 条链路</tspan></text>
+<polyline points="1190.0,708.0 1208.0,708.0 1208.0,928.0 600.0,928.0 600.0,773.0 561.0,773.0" fill="none" stroke="#A15C10" stroke-width="1.8" stroke-dasharray="7 5"/>
+<polygon points="551.0,773.0 561.0,768.5 561.0,777.5" fill="#A15C10"/>
+<text x="940.0" y="918" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="14.5" font-weight="normal" fill="#A15C10" text-anchor="middle"><tspan>强目标/合作标校目标相位自校准 → 更新 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">κ</tspan><tspan font-size="9.9" dy="4.1">l</tspan><tspan dy="-4.1">、站址/通道选择</tspan></text>
+</svg>

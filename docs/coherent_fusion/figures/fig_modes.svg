@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="400" viewBox="0 0 1240 400"><rect width="1240" height="400" fill="#fff"/>
+<rect x="20" y="16" width="290" height="368" rx="8" fill="#FAFBFC" stroke="#C5CCD5" stroke-width="1.2"/>
+<text x="165.0" y="50" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="20.0" font-weight="bold" fill="#2A8C6F" text-anchor="middle"><tspan>(a) 非相参融合</tspan></text>
+<rect x="35.0" y="106" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="87.0" y="106" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="139.0" y="106" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="191.0" y="106" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="243.0" y="106" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="35.0" y="158" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="87.0" y="158" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="139.0" y="158" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="191.0" y="158" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="243.0" y="158" width="52" height="52" rx="7" fill="none" stroke="#2A8C6F" stroke-width="2.2"/>
+<rect x="39.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="61.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="61.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="91.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="113.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="113.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="143.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="165.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="165.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="195.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="217.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="217.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="247.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="269.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="269.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<rect x="39.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="61.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="61.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="91.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="113.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="113.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="143.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="165.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="165.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="195.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="217.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="217.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="247.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="269.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="269.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<text x="25.0" y="138" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#E07B39" text-anchor="end"><tspan>源1</tspan></text>
+<text x="25.0" y="190" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#C23B5A" text-anchor="end"><tspan>源2</tspan></text>
+<text x="165.0" y="268" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="12.2" dy="5.0">N</tspan><tspan dy="-5.0"> = Σ</tspan><tspan font-size="12.2" dy="5.0">i,j</tspan><tspan dy="-5.0"> |</tspan><tspan font-style="italic" font-family="Times New Roman, serif">z̃</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan dy="-5.0">|²</tspan></text>
+<text x="165.0" y="312" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>适用条件：</tspan></text>
+<text x="165.0" y="340" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>无相位要求；对散射去相关稳健</tspan></text>
+<rect x="330" y="16" width="290" height="368" rx="8" fill="#FAFBFC" stroke="#C5CCD5" stroke-width="1.2"/>
+<text x="475.0" y="50" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="20.0" font-weight="bold" fill="#D98A1E" text-anchor="middle"><tspan>(b) 源间相参</tspan></text>
+<rect x="345.0" y="106" width="52" height="104" rx="7" fill="none" stroke="#D98A1E" stroke-width="2.2"/>
+<rect x="397.0" y="106" width="52" height="104" rx="7" fill="none" stroke="#D98A1E" stroke-width="2.2"/>
+<rect x="449.0" y="106" width="52" height="104" rx="7" fill="none" stroke="#D98A1E" stroke-width="2.2"/>
+<rect x="501.0" y="106" width="52" height="104" rx="7" fill="none" stroke="#D98A1E" stroke-width="2.2"/>
+<rect x="553.0" y="106" width="52" height="104" rx="7" fill="none" stroke="#D98A1E" stroke-width="2.2"/>
+<rect x="349.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="371.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="371.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="401.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="423.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="423.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="453.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="475.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="475.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="505.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="527.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="527.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="557.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="579.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="579.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<rect x="349.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="371.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="371.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="401.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="423.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="423.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="453.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="475.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="475.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="505.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="527.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="527.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="557.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="579.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="579.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<text x="335.0" y="138" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#E07B39" text-anchor="end"><tspan>源1</tspan></text>
+<text x="335.0" y="190" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#C23B5A" text-anchor="end"><tspan>源2</tspan></text>
+<text x="475.0" y="268" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>Σ</tspan><tspan font-size="12.2" dy="5.0">j</tspan><tspan dy="-5.0"> |Σ</tspan><tspan font-size="12.2" dy="5.0">i</tspan><tspan dy="-5.0"> </tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan font-style="italic" font-family="Times New Roman, serif" dy="-5.0">z̃</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan dy="-5.0"> e</tspan><tspan font-size="12.2" dy="-6.8">jΦ</tspan><tspan dy="6.8">|²</tspan></text>
+<text x="475.0" y="312" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>适用条件：</tspan></text>
+<text x="475.0" y="340" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>两源对目标视角差、载频差小</tspan></text>
+<rect x="640" y="16" width="290" height="368" rx="8" fill="#FAFBFC" stroke="#C5CCD5" stroke-width="1.2"/>
+<text x="785.0" y="50" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="20.0" font-weight="bold" fill="#6A4C9C" text-anchor="middle"><tspan>(c) 站间相参</tspan></text>
+<rect x="655.0" y="106" width="260" height="52" rx="7" fill="none" stroke="#6A4C9C" stroke-width="2.2"/>
+<rect x="655.0" y="158" width="260" height="52" rx="7" fill="none" stroke="#6A4C9C" stroke-width="2.2"/>
+<rect x="659.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="681.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="681.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="711.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="733.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="733.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="763.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="785.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="785.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="815.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="837.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="837.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="867.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="889.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="889.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<rect x="659.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="681.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="681.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="711.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="733.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="733.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="763.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="785.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="785.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="815.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="837.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="837.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="867.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="889.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="889.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<text x="645.0" y="138" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#E07B39" text-anchor="end"><tspan>源1</tspan></text>
+<text x="645.0" y="190" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#C23B5A" text-anchor="end"><tspan>源2</tspan></text>
+<text x="785.0" y="268" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>Σ</tspan><tspan font-size="12.2" dy="5.0">i</tspan><tspan dy="-5.0"> |Σ</tspan><tspan font-size="12.2" dy="5.0">j</tspan><tspan dy="-5.0"> </tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan font-style="italic" font-family="Times New Roman, serif" dy="-5.0">z̃</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan dy="-5.0"> e</tspan><tspan font-size="12.2" dy="-6.8">jΦ</tspan><tspan dy="6.8">|²</tspan></text>
+<text x="785.0" y="312" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>适用条件：</tspan></text>
+<text x="785.0" y="340" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>接收站相对目标张角小（站址紧凑）</tspan></text>
+<rect x="950" y="16" width="290" height="368" rx="8" fill="#FAFBFC" stroke="#C5CCD5" stroke-width="1.2"/>
+<text x="1095.0" y="50" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="20.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>(d) 10 链路全相参</tspan></text>
+<rect x="965.0" y="106" width="260" height="104" rx="7" fill="none" stroke="#2B5FAE" stroke-width="2.2"/>
+<rect x="969.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="991.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="991.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="1021.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="1043.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="1043.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="1073.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="1095.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="1095.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="1125.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="1147.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="1147.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="1177.0" y="110" width="44" height="44" rx="4" fill="#FBE3D3" stroke="#E07B39" stroke-width="1.2"/>
+<text x="1199.0" y="130" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T1</tspan></text>
+<text x="1199.0" y="146" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<rect x="969.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="991.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="991.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R1</tspan></text>
+<rect x="1021.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="1043.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="1043.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R2</tspan></text>
+<rect x="1073.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="1095.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="1095.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R3</tspan></text>
+<rect x="1125.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="1147.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="1147.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R4</tspan></text>
+<rect x="1177.0" y="162" width="44" height="44" rx="4" fill="#F6D3DC" stroke="#C23B5A" stroke-width="1.2"/>
+<text x="1199.0" y="182" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>T2</tspan></text>
+<text x="1199.0" y="198" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>R5</tspan></text>
+<text x="955.0" y="138" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#E07B39" text-anchor="end"><tspan>源1</tspan></text>
+<text x="955.0" y="190" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="12.5" font-weight="normal" fill="#C23B5A" text-anchor="end"><tspan>源2</tspan></text>
+<text x="1095.0" y="268" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>|Σ</tspan><tspan font-size="12.2" dy="5.0">i,j</tspan><tspan dy="-5.0"> </tspan><tspan font-style="italic" font-family="Times New Roman, serif">w</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan font-style="italic" font-family="Times New Roman, serif" dy="-5.0">z̃</tspan><tspan font-size="12.2" dy="5.0">ij</tspan><tspan dy="-5.0"> e</tspan><tspan font-size="12.2" dy="-6.8">jΦ</tspan><tspan dy="6.8">|²</tspan></text>
+<text x="1095.0" y="312" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#4B5563" text-anchor="middle"><tspan>适用条件：</tspan></text>
+<text x="1095.0" y="340" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="15.0" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>（b）（c）条件同时满足</tspan></text>
+</svg>
