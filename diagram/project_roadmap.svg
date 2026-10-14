@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="944" viewBox="0 0 1400 944">
+<title>基于多源非合作信号的分布式相参探测项目研究思路框图</title>
+<rect x="0.0" y="0.0" width="1400.0" height="944.0" rx="0" fill="#FFFFFF" stroke="none" stroke-width="1.2"/>
+<rect x="360.0" y="20.0" width="680.0" height="270.0" rx="3" fill="#FFFFFF" stroke="#E06666" stroke-width="2.2"/>
+<text x="700.0" y="62.6" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#1F1F1F" text-anchor="middle">问题分析</text>
+<rect x="430.0" y="80.0" width="540.0" height="54.0" rx="2" fill="#F8E4EB" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="114.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="21" font-weight="bold" fill="#1F1F1F" text-anchor="middle">非合作信号源雷达微弱目标探测威力不足</text>
+<line x1="700.0" y1="134.0" x2="700.0" y2="156.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="480.0" y1="156.0" x2="920.0" y2="156.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="480.0" y1="156.0" x2="480.0" y2="171.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="480.0,180.0 475.9,171.0 484.1,171.0" fill="#555555"/>
+<rect x="380.0" y="180.0" width="200.0" height="92.0" rx="2" fill="#FDF3F6" stroke="#555555" stroke-width="1.2"/>
+<text x="480.0" y="217.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="bold" fill="#1F1F1F" text-anchor="middle">信号源非合作</text>
+<text x="480.0" y="250.1" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="17" font-weight="normal" fill="#4D4D4D" text-anchor="middle">信号参数未知、不可控</text>
+<line x1="700.0" y1="156.0" x2="700.0" y2="171.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="700.0,180.0 696.0,171.0 704.0,171.0" fill="#555555"/>
+<rect x="600.0" y="180.0" width="200.0" height="92.0" rx="2" fill="#FDF3F6" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="217.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="bold" fill="#1F1F1F" text-anchor="middle">干扰环境复杂</text>
+<text x="700.0" y="250.1" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="17" font-weight="normal" fill="#4D4D4D" text-anchor="middle">多源串扰与时变杂波强</text>
+<line x1="920.0" y1="156.0" x2="920.0" y2="171.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="920.0,180.0 916.0,171.0 924.0,171.0" fill="#555555"/>
+<rect x="820.0" y="180.0" width="200.0" height="92.0" rx="2" fill="#FDF3F6" stroke="#555555" stroke-width="1.2"/>
+<text x="920.0" y="217.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="bold" fill="#1F1F1F" text-anchor="middle">积累增益有限</text>
+<text x="920.0" y="250.1" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="17" font-weight="normal" fill="#4D4D4D" text-anchor="middle">单源单站回波能量弱</text>
+<polygon points="648.0,300.0 700.0,322.0 752.0,300.0 700.0,354.0" fill="#C5D9E3"/>
+<rect x="20.0" y="362.0" width="380.0" height="560.0" rx="3" fill="#FFFFFF" stroke="#6FA8B0" stroke-width="2.2"/>
+<text x="210.0" y="404.6" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#1F1F1F" text-anchor="middle">可行性论证</text>
+<rect x="40.0" y="460.0" width="222.0" height="60.0" rx="2" fill="#D3E3E6" stroke="#555555" stroke-width="1.2"/>
+<text x="151.0" y="497.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">探测威力论证</text>
+<line x1="262.0" y1="490.0" x2="290.0" y2="490.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<rect x="40.0" y="580.0" width="222.0" height="60.0" rx="2" fill="#D3E3E6" stroke="#555555" stroke-width="1.2"/>
+<text x="151.0" y="617.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">三维相参增益分析</text>
+<line x1="262.0" y1="610.0" x2="290.0" y2="610.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<rect x="40.0" y="700.0" width="222.0" height="60.0" rx="2" fill="#D3E3E6" stroke="#555555" stroke-width="1.2"/>
+<text x="151.0" y="737.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">时频同步精度分析</text>
+<line x1="262.0" y1="730.0" x2="290.0" y2="730.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<rect x="40.0" y="820.0" width="222.0" height="60.0" rx="2" fill="#D3E3E6" stroke="#555555" stroke-width="1.2"/>
+<text x="151.0" y="857.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">多站布站可行性分析</text>
+<line x1="262.0" y1="850.0" x2="290.0" y2="850.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<line x1="290.0" y1="490.0" x2="290.0" y2="850.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<rect x="314.0" y="460.0" width="60.0" height="420.0" rx="14" fill="#D3E3E6" stroke="#555555" stroke-width="1.2"/>
+<line x1="290.0" y1="642.0" x2="304.0" y2="642.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="314.0,642.0 304.0,646.5 304.0,637.5" fill="#555555"/>
+<text x="344.0" y="578.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="24" font-weight="normal" fill="#1F1F1F" text-anchor="middle">计</text>
+<text x="344.0" y="614.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="24" font-weight="normal" fill="#1F1F1F" text-anchor="middle">算</text>
+<text x="344.0" y="650.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="24" font-weight="normal" fill="#1F1F1F" text-anchor="middle">机</text>
+<text x="344.0" y="686.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="24" font-weight="normal" fill="#1F1F1F" text-anchor="middle">仿</text>
+<text x="344.0" y="722.6" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="24" font-weight="normal" fill="#1F1F1F" text-anchor="middle">真</text>
+<polygon points="414.0,592.0 466.0,642.0 414.0,692.0 436.0,642.0" fill="#7FCDB0"/>
+<rect x="480.0" y="362.0" width="440.0" height="560.0" rx="3" fill="#FFFFFF" stroke="#9CD3BF" stroke-width="2.2"/>
+<text x="700.0" y="404.6" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#1F1F1F" text-anchor="middle">技术研究</text>
+<rect x="500.0" y="422.0" width="400.0" height="392.0" rx="4" fill="#F4FAF7" stroke="#7DBFA6" stroke-width="1.4" stroke-dasharray="6 4"/>
+<text x="700.0" y="455.6" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, sans-serif" font-size="21" font-weight="bold" fill="#1F1F1F" text-anchor="middle">关键算法研究</text>
+<rect x="520.0" y="470.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="500.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">分布式非合作信号源目标回波建模</text>
+<rect x="520.0" y="526.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="556.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">辐射源参数估计</text>
+<rect x="520.0" y="582.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="612.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">多源串扰抑制算法设计</text>
+<rect x="520.0" y="638.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="668.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">分布式时变杂波抑制算法</text>
+<rect x="520.0" y="694.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="724.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">分布式相参探测算法设计</text>
+<rect x="520.0" y="750.0" width="360.0" height="46.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="780.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">分布式相参多站址调度</text>
+<line x1="700.0" y1="814.0" x2="700.0" y2="830.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="700.0,840.0 695.5,830.0 704.5,830.0" fill="#555555"/>
+<rect x="520.0" y="840.0" width="360.0" height="56.0" rx="2" fill="#ADDBC9" stroke="#555555" stroke-width="1.2"/>
+<text x="700.0" y="875.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">数字化雷达验证平台研制</text>
+<polygon points="934.0,592.0 986.0,642.0 934.0,692.0 956.0,642.0" fill="#A9C4E8"/>
+<rect x="1000.0" y="362.0" width="380.0" height="560.0" rx="3" fill="#FFFFFF" stroke="#A8BFE3" stroke-width="2.2"/>
+<text x="1190.0" y="404.6" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, sans-serif" font-size="24" font-weight="bold" fill="#1F1F1F" text-anchor="middle">验证演示</text>
+<rect x="1040.0" y="460.0" width="300.0" height="60.0" rx="2" fill="#C9DAF0" stroke="#555555" stroke-width="1.2"/>
+<text x="1190.0" y="497.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">多源场景回波仿真</text>
+<line x1="1190.0" y1="520.0" x2="1190.0" y2="570.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="1190.0,580.0 1185.5,570.0 1194.5,570.0" fill="#555555"/>
+<rect x="1040.0" y="580.0" width="300.0" height="60.0" rx="2" fill="#C9DAF0" stroke="#555555" stroke-width="1.2"/>
+<text x="1190.0" y="617.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">关键算法仿真验证</text>
+<line x1="1190.0" y1="640.0" x2="1190.0" y2="690.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="1190.0,700.0 1185.5,690.0 1194.5,690.0" fill="#555555"/>
+<rect x="1040.0" y="700.0" width="300.0" height="60.0" rx="2" fill="#C9DAF0" stroke="#555555" stroke-width="1.2"/>
+<text x="1190.0" y="737.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">探测性能评估</text>
+<line x1="1190.0" y1="760.0" x2="1190.0" y2="810.0" stroke="#555555" stroke-width="1.6" stroke-linecap="square"/>
+<polygon points="1190.0,820.0 1185.5,810.0 1194.5,810.0" fill="#555555"/>
+<rect x="1040.0" y="820.0" width="300.0" height="60.0" rx="2" fill="#C9DAF0" stroke="#555555" stroke-width="1.2"/>
+<text x="1190.0" y="857.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, serif" font-size="20" font-weight="normal" fill="#1F1F1F" text-anchor="middle">综合验证演示</text>
+</svg>
