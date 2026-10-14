@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800"><rect width="1200" height="800" fill="#fff"/>
+<rect x="90" y="14" width="220" height="52" rx="26" fill="#46505C" stroke="none" stroke-width="1.4"/>
+<text x="200" y="50" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>接收信号 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">r</tspan><tspan>(</tspan><tspan font-style="italic" font-family="Times New Roman, serif">n</tspan><tspan>)</tspan></text>
+<polyline points="200.0,66.0 200.0,84.0" fill="none" stroke="#46505C" stroke-width="1.8"/>
+<polygon points="200.0,94.0 195.5,84.0 204.5,84.0" fill="#46505C"/>
+<rect x="20" y="96" width="360" height="50" rx="6" fill="#2B5FAE" stroke="none" stroke-width="1.4"/>
+<text x="200.0" y="131" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="27.3" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>① 信号层参数盲估计</tspan></text>
+<polygon points="388.0,104 410.0,121.0 388.0,138 396.0,121.0" fill="#9AA5B1"/>
+<rect x="420" y="96" width="360" height="50" rx="6" fill="#23826F" stroke="none" stroke-width="1.4"/>
+<text x="600.0" y="131" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="27.3" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>② 帧结构参数识别</tspan></text>
+<polygon points="788.0,104 810.0,121.0 788.0,138 796.0,121.0" fill="#9AA5B1"/>
+<rect x="820" y="96" width="360" height="50" rx="6" fill="#A15C10" stroke="none" stroke-width="1.4"/>
+<text x="1000.0" y="131" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="27.3" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>③ 时频参数精确估计</tspan></text>
+<rect x="20" y="166" width="360" height="112" rx="6" fill="#EEF3FB" stroke="#2B5FAE" stroke-width="1.6"/>
+<text x="200.0" y="200" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>功率谱估计</tspan></text>
+<text x="200.0" y="233" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>占用带宽、中心空隙位置</tspan></text>
+<text x="200.0" y="263" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>→ 频偏粗估计</tspan></text>
+<polyline points="200.0,279.0 200.0,297.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="200.0,307.0 195.5,297.0 204.5,297.0" fill="#2B5FAE"/>
+<rect x="20" y="308" width="360" height="112" rx="6" fill="#EEF3FB" stroke="#2B5FAE" stroke-width="1.6"/>
+<text x="200.0" y="342" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>CP 自相关</tspan></text>
+<text x="200.0" y="375" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>有用符号长度 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan></text>
+<text x="200.0" y="405" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>子载波间隔 Δ</tspan><tspan font-style="italic" font-family="Times New Roman, serif">f</tspan><tspan> = 1/</tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan></text>
+<polyline points="200.0,421.0 200.0,439.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="200.0,449.0 195.5,439.0 204.5,439.0" fill="#2B5FAE"/>
+<rect x="20" y="450" width="360" height="112" rx="6" fill="#EEF3FB" stroke="#2B5FAE" stroke-width="1.6"/>
+<text x="200.0" y="484" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>循环自相关</tspan></text>
+<text x="200.0" y="517" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>符号周期 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="15.0" dy="6.2">sym</tspan><tspan dy="-6.2"></tspan></text>
+<text x="200.0" y="547" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>CP 长度 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="15.0" dy="6.2">g</tspan><tspan dy="-6.2"></tspan><tspan> = </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="15.0" dy="6.2">sym</tspan><tspan dy="-6.2"></tspan><tspan> − </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan></text>
+<polyline points="200.0,563.0 200.0,581.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="200.0,591.0 195.5,581.0 204.5,581.0" fill="#2B5FAE"/>
+<rect x="20" y="592" width="360" height="112" rx="6" fill="#EEF3FB" stroke="#2B5FAE" stroke-width="1.6"/>
+<text x="200.0" y="626" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#2B5FAE" text-anchor="middle"><tspan>整数约束判定</tspan></text>
+<text x="200.0" y="659" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>采样率 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">F</tspan><tspan font-size="15.0" dy="6.2">s</tspan><tspan dy="-6.2"></tspan><tspan>、子载波数 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">N</tspan></text>
+<text x="200.0" y="689" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>CP 样点数 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">N</tspan><tspan font-size="15.0" dy="6.2">g</tspan><tspan dy="-6.2"></tspan><tspan>，反算精确参数</tspan></text>
+<polyline points="200.0,147.0 200.0,155.0" fill="none" stroke="#2B5FAE" stroke-width="1.8"/>
+<polygon points="200.0,165.0 195.5,155.0 204.5,155.0" fill="#2B5FAE"/>
+<rect x="420" y="166" width="360" height="112" rx="6" fill="#EEF7F5" stroke="#23826F" stroke-width="1.6"/>
+<text x="600.0" y="200" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>长时延自相关</tspan></text>
+<text x="600.0" y="244" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>帧周期 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="15.0" dy="6.2">f</tspan><tspan dy="-6.2"></tspan></text>
+<polyline points="600.0,279.0 600.0,297.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="600.0,307.0 595.5,297.0 604.5,297.0" fill="#23826F"/>
+<rect x="420" y="308" width="360" height="112" rx="6" fill="#EEF7F5" stroke="#23826F" stroke-width="1.6"/>
+<text x="600.0" y="342" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>帧同步功率折叠</tspan></text>
+<text x="600.0" y="375" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>帧保护 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">T</tspan><tspan font-size="15.0" dy="6.2">fg</tspan><tspan dy="-6.2"></tspan><tspan>、每帧符号数 </tspan><tspan font-style="italic" font-family="Times New Roman, serif">N</tspan><tspan font-size="15.0" dy="6.2">sf</tspan><tspan dy="-6.2"></tspan></text>
+<text x="600.0" y="405" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>帧起点位置</tspan></text>
+<polyline points="600.0,421.0 600.0,439.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="600.0,449.0 595.5,439.0 604.5,439.0" fill="#23826F"/>
+<rect x="420" y="450" width="360" height="112" rx="6" fill="#EEF7F5" stroke="#23826F" stroke-width="1.6"/>
+<text x="600.0" y="484" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#23826F" text-anchor="middle"><tspan>跨帧相干平均</tspan></text>
+<text x="600.0" y="517" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>同步符号（PSS/SSS）</tspan></text>
+<text x="600.0" y="547" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>波形提取</tspan></text>
+<polyline points="600.0,147.0 600.0,155.0" fill="none" stroke="#23826F" stroke-width="1.8"/>
+<polygon points="600.0,165.0 595.5,155.0 604.5,155.0" fill="#23826F"/>
+<rect x="820" y="166" width="360" height="112" rx="6" fill="#FDF6EC" stroke="#A15C10" stroke-width="1.6"/>
+<text x="1000.0" y="200" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#A15C10" text-anchor="middle"><tspan>CP 最大似然估计</tspan></text>
+<text x="1000.0" y="233" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>符号定时、小数倍频偏</tspan></text>
+<text x="1000.0" y="263" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>（非数据辅助，多符号累加）</tspan></text>
+<polyline points="1000.0,279.0 1000.0,297.0" fill="none" stroke="#A15C10" stroke-width="1.8"/>
+<polygon points="1000.0,307.0 995.5,297.0 1004.5,297.0" fill="#A15C10"/>
+<rect x="820" y="308" width="360" height="112" rx="6" fill="#FDF6EC" stroke="#A15C10" stroke-width="1.6"/>
+<text x="1000.0" y="342" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#A15C10" text-anchor="middle"><tspan>整数倍频偏解模糊</tspan></text>
+<text x="1000.0" y="375" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>结合功率谱频偏粗估计</tspan></text>
+<text x="1000.0" y="405" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>→ 完整频偏估计</tspan></text>
+<polyline points="1000.0,421.0 1000.0,439.0" fill="none" stroke="#A15C10" stroke-width="1.8"/>
+<polygon points="1000.0,449.0 995.5,439.0 1004.5,439.0" fill="#A15C10"/>
+<rect x="820" y="450" width="360" height="112" rx="6" fill="#FDF6EC" stroke="#A15C10" stroke-width="1.6"/>
+<text x="1000.0" y="484" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#A15C10" text-anchor="middle"><tspan>同步符号辅助估计</tspan></text>
+<text x="1000.0" y="517" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>精确定时、多帧相干频偏</tspan></text>
+<text x="1000.0" y="547" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>（数据辅助，逼近 CRB）</tspan></text>
+<polyline points="1000.0,563.0 1000.0,581.0" fill="none" stroke="#A15C10" stroke-width="1.8"/>
+<polygon points="1000.0,591.0 995.5,581.0 1004.5,581.0" fill="#A15C10"/>
+<rect x="820" y="592" width="360" height="112" rx="6" fill="#FDF6EC" stroke="#A15C10" stroke-width="1.6"/>
+<text x="1000.0" y="626" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#A15C10" text-anchor="middle"><tspan>解调与调制识别</tspan></text>
+<text x="1000.0" y="659" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>高阶累积量特征</tspan></text>
+<text x="1000.0" y="689" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="22.1" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan>→ 子载波调制方式</tspan></text>
+<polyline points="1000.0,147.0 1000.0,155.0" fill="none" stroke="#A15C10" stroke-width="1.8"/>
+<polygon points="1000.0,165.0 995.5,155.0 1004.5,155.0" fill="#A15C10"/>
+<polyline points="781.0,506.0 809.0,506.0" fill="none" stroke="#23826F" stroke-width="1.8" stroke-dasharray="6 4"/>
+<polygon points="819.0,506.0 809.0,510.5 809.0,501.5" fill="#23826F"/>
+<text x="800.0" y="498.0" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="18.2" font-weight="normal" fill="#1F2933" text-anchor="middle"><tspan></tspan></text>
+<polyline points="1000.0,705.0 1000.0,723.0" fill="none" stroke="#A15C10" stroke-width="1.8"/>
+<polygon points="1000.0,733.0 995.5,723.0 1004.5,723.0" fill="#A15C10"/>
+<rect x="20" y="734" width="1160" height="54" rx="6" fill="#46505C" stroke="none" stroke-width="1.4"/>
+<text x="600.0" y="770" font-family="Microsoft YaHei, WenQuanYi Zen Hei, PingFang SC, sans-serif" font-size="26.0" font-weight="bold" fill="#fff" text-anchor="middle"><tspan>参数输出：参考信号重构 · 多源串扰抑制 · 多源/多站相参融合</tspan></text>
+</svg>
