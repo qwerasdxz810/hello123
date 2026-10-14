@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="1082" viewBox="0 0 650 1082">
+<title>基于多源非合作信号的微弱目标探测技术算法流程图</title>
+<rect x="0" y="0" width="650" height="1082" fill="#FFFFFF"/>
+<rect x="1.5" y="1.5" width="647.0" height="1079.0" fill="none" stroke="#7F7F7F" stroke-width="1.5"/>
+<rect x="12.0" y="12.0" width="626.0" height="82.0" fill="#F2F2F2" stroke="#000000" stroke-width="2.0"/>
+<text x="325.5" y="62.7" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, WenQuanYi Zen Hei, sans-serif" font-size="27" font-weight="bold" fill="#000000" text-anchor="middle" letter-spacing="1">站址调度</text>
+<polyline points="325.0,94.0 325.0,132.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polyline points="130.0,132.0 520.0,132.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polyline points="130.0,132.0 130.0,171.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="130.0,195.0 121.5,171.0 138.5,171.0" fill="#000000"/>
+<polyline points="520.0,132.0 520.0,171.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="520.0,195.0 511.5,171.0 528.5,171.0" fill="#000000"/>
+<rect x="12.0" y="195.0" width="236.0" height="84.0" fill="#F2DCDB" stroke="#000000" stroke-width="2.0"/>
+<text x="131.5" y="246.0" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">参考通道信号</text>
+<polyline points="130.0,279.0 130.0,398.5" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="130.0,422.5 121.5,398.5 138.5,398.5" fill="#000000"/>
+<rect x="12.0" y="422.5" width="236.0" height="84.0" fill="#F2DCDB" stroke="#000000" stroke-width="2.0"/>
+<text x="131.5" y="473.5" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">辐射源信号分选</text>
+<polyline points="130.0,506.5 130.0,626.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="130.0,650.0 121.5,626.0 138.5,626.0" fill="#000000"/>
+<rect x="12.0" y="650.0" width="236.0" height="84.0" fill="#F2DCDB" stroke="#000000" stroke-width="2.0"/>
+<text x="131.5" y="684.8" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">辐射源参数</text>
+<text x="131.5" y="717.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">精确估计</text>
+<rect x="402.0" y="195.0" width="236.0" height="84.0" fill="#FFF2CC" stroke="#000000" stroke-width="2.0"/>
+<text x="521.5" y="246.0" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">回波通道信号</text>
+<polyline points="520.0,279.0 520.0,322.7" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="520.0,346.7 511.5,322.7 528.5,322.7" fill="#000000"/>
+<rect x="402.0" y="346.7" width="236.0" height="84.0" fill="#FFF2CC" stroke="#000000" stroke-width="2.0"/>
+<text x="521.5" y="397.7" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">抗栅瓣处理</text>
+<polyline points="520.0,430.7 520.0,474.3" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="520.0,498.3 511.5,474.3 528.5,474.3" fill="#000000"/>
+<rect x="402.0" y="498.3" width="236.0" height="84.0" fill="#FFF2CC" stroke="#000000" stroke-width="2.0"/>
+<text x="521.5" y="549.3" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">串扰与杂波抑制</text>
+<polyline points="520.0,582.3 520.0,626.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="520.0,650.0 511.5,626.0 528.5,626.0" fill="#000000"/>
+<rect x="402.0" y="650.0" width="236.0" height="84.0" fill="#FFF2CC" stroke="#000000" stroke-width="2.0"/>
+<text x="521.5" y="684.8" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">长时间积累</text>
+<text x="521.5" y="717.2" font-family="SimSun, 宋体, Songti SC, STSong, Noto Serif CJK SC, WenQuanYi Zen Hei, serif" font-size="25" font-weight="normal" fill="#000000" text-anchor="middle" letter-spacing="3">运动补偿</text>
+<polyline points="130.0,734.0 130.0,766.0 520.0,766.0 520.0,734.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polyline points="325.0,766.0 325.0,792.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="325.0,816.0 316.5,792.0 333.5,792.0" fill="#000000"/>
+<rect x="135.0" y="816.0" width="380.0" height="120.0" fill="#EBF1DE" stroke="#000000" stroke-width="2.0"/>
+<text x="325.5" y="868.2" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, WenQuanYi Zen Hei, sans-serif" font-size="27" font-weight="bold" fill="#000000" text-anchor="middle" letter-spacing="1">空、时域混合</text>
+<text x="325.5" y="903.3" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, WenQuanYi Zen Hei, sans-serif" font-size="27" font-weight="bold" fill="#000000" text-anchor="middle" letter-spacing="1">分布式相参融合</text>
+<polyline points="325.0,936.0 325.0,962.0" fill="none" stroke="#000000" stroke-width="2.0" stroke-linejoin="miter"/>
+<polygon points="325.0,986.0 316.5,962.0 333.5,962.0" fill="#000000"/>
+<rect x="135.0" y="986.0" width="380.0" height="84.0" fill="#F2F2F2" stroke="#000000" stroke-width="2.0"/>
+<text x="325.5" y="1037.7" font-family="SimHei, 黑体, Heiti SC, STHeiti, Noto Sans CJK SC, WenQuanYi Zen Hei, sans-serif" font-size="27" font-weight="bold" fill="#000000" text-anchor="middle" letter-spacing="1">微弱目标检测与定位</text>
+</svg>
